@@ -1,0 +1,9 @@
+WATSONX_APIKEY=
+IBM_CLOUD_URL=https://us-south.ml.cloud.ibm.com
+WATSONX_SPACE_ID=
+WATSONX_DEPLOYMENT_ID=
+COS_API_KEY_ID=
+COS_RESOURCE_CRN=
+COS_ENDPOINT=https://s3.us-south.cloud-object-storage.appdomain.cloud
+IAM_AUTH_ENDPOINT=https://iam.cloud.ibm.com/identity/token
+BUCKET_NAME=
