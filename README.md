@@ -28,11 +28,15 @@ This repository contains the materials and lab exercises designed to enable stud
 
 - **Lab_3_watson_studio_deployment**: Learn how to deploy models using Watson Studio, focusing on pandas and Spark environments.
 
-- **Lab_4_monitoring**: **Focus on no-code solutions**. This lab is crucial as it introduces monitoring ML models in a production environment without requiring extensive coding. It covers:
+- **Lab_4_spss modeler**: **This lab is mandatory**. Drag and drop experience in training models with spss modeler. Please follow `Lab_4_spss_modeller/Lab 6 - SPSS Modeller.pdf`
+
+- **Lab_5_watson_pipeline_mlops**: **This lab is mandatory**. It teaches students to build and manage pipelines using watson MLOps tools. The instructions are in the `Lab_5_watson_pipeline_instructions.pdf`, and it focuses on integrating monitoring, automation, and governance in your ML pipelines.
+
+- **Lab_6_monitoring**: **Focus on no-code solutions**. This lab is crucial as it introduces monitoring ML models in a production environment without requiring extensive coding. It covers:
   - **No-Code Monitoring**: Tools and interfaces that allow non-technical users to track and monitor models.
   - **Code (Optional)**: For more advanced users who want to dig deeper into programmatic monitoring.
 
-- **Lab_5_watson_pipeline_mlops**: **This lab is mandatory**. It teaches students to build and manage pipelines using watson MLOps tools. The instructions are in the `Lab_5_watson_pipeline_instructions.pdf`, and it focuses on integrating monitoring, automation, and governance in your ML pipelines.
+
 
 ---
 

@@ -1,0 +1,7 @@
+ibm_watson_machine_learning==1.0.360
+ibm_watsonx_ai==1.1.8
+ibm-watson-openscale==3.0.14
+ibm-cos-sdk==2.13.4
+ibm-cos-sdk-core==2.13.4
+urllib3==1.26.19
+python-dotenv==1.0.0
