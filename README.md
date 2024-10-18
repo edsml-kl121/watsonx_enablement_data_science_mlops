@@ -8,11 +8,11 @@ This repository contains the materials and lab exercises designed to enable stud
 1. **Main Focus**: 
    - Start by setting up your environment using the **Lab_0_setup_instructions/main_route/LAB 0 - Logging in & Setting up with student ID.pdf** file.
    - follow through the guide in **Lab_1_data_visualization_and_connection/Lab_1_data_visualization_and_connection.pdf**
-   - follow through the guide in **Lab_2_auto_ai_deployment/LAB_2_Auto_ai_deployment.pdf**
-   - Prioritize completing **Lab 4** (no-code monitoring) and **Lab 5** (pipeline MLOps).
+   - follow through the guide in **Lab_2_auto_ai_deployment/LAB_2_Auto_ai_deployment.pdf** and **/Lab_3_watson_studio_deployment/pandas** folder
+   - **Lab 5** (pipeline MLOps).
    
 2. **Homework**: 
-   - Labs 3 & Lab 4 (Code) are assigned as homework.
+   - Labs 3 (spark) & Lab 4 are assigned as homework.
 
 ---
 
