@@ -9,10 +9,11 @@ This repository contains the materials and lab exercises designed to enable stud
    - Start by setting up your environment using the **Lab_0_setup_instructions/main_route/LAB 0 - Logging in & Setting up with student ID.pdf** file.
    - follow through the guide in **Lab_1_data_visualization_and_connection/Lab_1_data_visualization_and_connection.pdf**
    - follow through the guide in **Lab_2_auto_ai_deployment/LAB_2_Auto_ai_deployment.pdf** and **/Lab_3_watson_studio_deployment/pandas** folder
-   - **Lab 5** (pipeline MLOps).
+   - **Lab 4** Simply upload the .str file to spss modeler and run all. Could rebuild the whole pipeline as homework by following `Lab 4 - Spss Modeller.pdf`
+   - **Lab 5** Follow through the guide in `lab_5_watson_pipeline.pdf` (pipeline MLOps).
    
 2. **Homework**: 
-   - Labs 3 (spark) & Lab 4 are assigned as homework.
+   - Labs 3 (spark) & Lab 6 monitoring are assigned as homework.
 
 ---
 
